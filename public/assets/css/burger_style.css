@@ -1,0 +1,12 @@
+body {
+  background-image: url("../img/brickwall/brickwall.png")
+}
+
+img {
+  width: 33.3%;
+    
+}
+
+.red_font {
+  color: #bc001f;
+}
